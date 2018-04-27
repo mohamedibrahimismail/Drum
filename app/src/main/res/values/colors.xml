@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212220</color>
+    <color name="colorPrimaryDark">#21222c</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- blue style gredient -->
+    <color name="bluestartcolor">#47f9fe</color>
+    <color name="blueendcolor">#1295fd</color>
+    <!-- orange style gredient -->
+    <color name="orangestartcolor">#feed64</color>
+    <color name="orangeendcolor">#dda660</color>
+    <!-- pink style gredient -->
+    <color name="pinkstartcolor">#fd75a5</color>
+    <color name="pinkendcolor">#ea1e77</color>
+    <!-- puprle style gredient -->
+    <color name="puprlestartcolor">#f75fe1</color>
+    <color name="puprleendcolor">#c425ec</color>
+    <!-- green style gredient -->
+    <color name="greenstartcolor">#b4fa51</color>
+    <color name="greenendcolor">#78cb29</color>
+
+
+</resources>
